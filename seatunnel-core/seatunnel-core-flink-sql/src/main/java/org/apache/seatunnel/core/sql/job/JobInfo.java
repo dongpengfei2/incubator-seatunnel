@@ -33,6 +33,10 @@ public class JobInfo {
         this.jobContent = jobContent;
     }
 
+    public void setJobContent(String jobContent) {
+        this.jobContent = jobContent;
+    }
+
     public String getJobContent() {
         return jobContent;
     }
